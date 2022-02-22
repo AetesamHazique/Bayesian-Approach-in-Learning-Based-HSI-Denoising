@@ -1,0 +1,11 @@
+This folder consists lof files consisting of the following training information in CSV format:
+epoch,
+loss,
+psnr_met2,
+ssim_metric2d,
+val_loss,
+val_psnr_met2,
+val_ssim_metric2d
+
+All the variables above correspond to different functions added in CSV logger during the training process. Here, epoch, loss and val_loss are pre-defined callbacks while psnr_met2,
+ssim_metric2d, val_psnr_met2, val_ssim_metric2d are custom callbacks defined using predefined functions.
