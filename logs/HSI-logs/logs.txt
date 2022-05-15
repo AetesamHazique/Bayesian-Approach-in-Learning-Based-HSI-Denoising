@@ -1,4 +1,4 @@
-This folder consists lof files consisting of the following training information in CSV format:
+This folder consists log files consisting of the following training information in CSV format:
 epoch,
 loss,
 psnr_met2,
